@@ -18,4 +18,4 @@ Pada tugas kali ini saya membuat project tentang visualisasi tentang data/klasif
 ## Link code :
 https://www.kaggle.com/code/ndrewgele/visualizing-pok-mon-stats-with-seaborn?kernelSessionId=347380
 
-<iframe src="https://www.kaggle.com/embed/ndrewgele/visualizing-pok-mon-stats-with-seaborn?kernelSessionId=347380" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Visualizing Pokémon Stats with Seaborn"></iframe>
+<a src="https://www.kaggle.com/embed/ndrewgele/visualizing-pok-mon-stats-with-seaborn?kernelSessionId=347380" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Visualizing Pokémon Stats with Seaborn"></a>
